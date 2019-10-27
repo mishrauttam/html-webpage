@@ -1,0 +1,39 @@
+<!--*{
+    margin: 0px;
+    padding:0px;
+}
+form
+{
+    background-color: silver;
+    color: Black;
+    width=100%;
+}
+input[type=text],select
+{
+    width: 30%;
+    float: :right;
+    border: 1px solid black;
+    padding: 10px;
+}
+h2
+{
+    text-align: center;
+    padding: 10px;
+}
+textarea
+{
+    width: 50%;
+    height: auto;
+}
+button
+{
+    border-radius: 30%;
+    background-color: white;
+    color: black;
+    margin-left: 50%;
+    width: 100px;
+}-->
+nav
+{
+    background-color:
+}
